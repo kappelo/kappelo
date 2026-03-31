@@ -36,6 +36,3 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kappelo&show_icons=true&theme=discord_old_blurple&locale=en" alt="kappelo" /></p>
