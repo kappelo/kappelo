@@ -38,7 +38,7 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kappelo&show_icons=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" alt="kappelo's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kappelo&show_icons=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_border=true&cache_seconds=86400&v=1" alt="kappelo's GitHub stats" />
 </div>
 
 <br><br>
