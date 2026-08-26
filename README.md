@@ -1,79 +1,48 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=kappelo&fontSize=90&fontAlignY=38&desc=Creative%20Developer&descAlignY=51&descAlign=62&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=kappelo&fontSize=90&fontAlignY=40&animation=twinkling" width="100%" />
 </div>
 
-<!-- Introduction -->
-<br>
+<!-- Animated Projects & Bio -->
 <div align="center">
-  <p>
-    <em>Turning caffeine into elegant code and digital experiences.</em>
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F77F00&center=true&vCenter=true&width=500&lines=✨+Creator+of+Dream+Zone+✨;✨+Creator+of+Kappelo+Dev+✨;✨+Creator+of+mojesibo+✨;✨+Creator+of+theradesk+✨;✨+Creator+of+kino-bez-reklam+✨" alt="Typing SVG" />
   
-  <br>
-  
-  <h3>✧ 🇬🇧 English ✧</h3>
+  <br><br>
   <p>
-    I am a developer from Poland passionate about creating modern and scalable applications.<br><br>
-    <i>Creator & Founder of:</i><br>
-    <br>
-    <kbd>Dream Zone</kbd> &nbsp;•&nbsp; <kbd>Kappelo Dev</kbd> &nbsp;•&nbsp; <kbd>mojesibo</kbd> &nbsp;•&nbsp; <kbd>theradesk</kbd> &nbsp;•&nbsp; <kbd>kino-bez-reklam</kbd>
-  </p>
-
-  <br>
-  <p>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-  <br>
-
-  <h3>✧ 🇵🇱 Polski ✧</h3>
-  <p>
-    Jestem programistą z Polski, z pasją do tworzenia nowoczesnych i skalowalnych aplikacji.<br><br>
-    <i>Dumny twórca projektów:</i><br>
-    <br>
-    <kbd>Dream Zone</kbd> &nbsp;•&nbsp; <kbd>Kappelo Dev</kbd> &nbsp;•&nbsp; <kbd>mojesibo</kbd> &nbsp;•&nbsp; <kbd>theradesk</kbd> &nbsp;•&nbsp; <kbd>kino-bez-reklam</kbd>
+    🇬🇧 <i>Passionate developer from Poland, building modern & scalable apps.</i><br>
+    🇵🇱 <i>Programista z Polski, z pasją do nowoczesnych i skalowalnych aplikacji.</i>
   </p>
 </div>
+
 <br>
 
-<!-- Socials -->
+<!-- Socials (Colorful) -->
 <div align="center">
   <a href="https://www.youtube.com/c/kappello99" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-121212?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://discord.gg/Qgj9Xefjwx" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-121212?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="mailto:kappelo@tuta.io" target="_blank">
-    <img src="https://img.shields.io/badge/Tuta-121212?style=for-the-badge&logo=tutanota&logoColor=white" alt="Tuta" />
+    <img src="https://img.shields.io/badge/Tuta-811E68?style=for-the-badge&logo=tutanota&logoColor=white" alt="Tuta" />
   </a>
 </div>
 
 <br><br>
 
-<!-- Tech Stack -->
+<!-- Tech Stack (Compact & Colorful) -->
 <div align="center">
-  <h3>🛠️ Core Arsenal</h3>
-  <br>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,php&theme=dark" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=html,bootstrap,nodejs,npm,cloudflare&theme=dark" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,linux,ubuntu,windows&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,php,html,bootstrap,nodejs,npm,cloudflare,mysql,sqlite,mongodb,linux,ubuntu,windows&perline=8" />
 </div>
 
 <br><br>
 
 <!-- Snake Graph -->
 <div align="center">
-  <h3>🌟 Activity Overview</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kappelo/kappelo/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kappelo/kappelo/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kappelo/kappelo/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
-
-<!-- Footer -->
-<br>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" />
 </div>
