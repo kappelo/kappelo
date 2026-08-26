@@ -36,6 +36,11 @@
   <img src="https://skillicons.dev/icons?i=cpp,java,python,js,php,html,bootstrap,nodejs,npm,cloudflare,mysql,sqlite,mongodb,linux,ubuntu,windows&perline=8" />
 </div>
 
+<!-- GitHub Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kappelo&show_icons=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" alt="kappelo's GitHub stats" />
+</div>
+
 <br><br>
 
 <!-- Snake Graph -->
