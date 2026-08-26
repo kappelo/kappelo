@@ -9,8 +9,8 @@
   
   <br><br>
   <p>
-    🇬🇧 <i>Passionate developer from Poland, building modern & scalable apps.</i><br>
-    🇵🇱 <i>Programista z Polski, z pasją do nowoczesnych i skalowalnych aplikacji.</i>
+    <b>EN</b> &nbsp;|&nbsp; <i>I build web applications that I would love to use myself — fast, modern, and without compromises.</i><br>
+    <b>PL</b> &nbsp;|&nbsp; <i>Buduję aplikacje internetowe, z których sam chciałbym korzystać — szybko, nowocześnie i bez kompromisów.</i>
   </p>
 </div>
 
