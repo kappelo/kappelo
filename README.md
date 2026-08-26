@@ -1,38 +1,69 @@
-<span align="center">
-<h1 align="center">Hi 👋, I'm kappelo</h1>
-<h3 align="center">A creative developer from Poland</h3>
-</span>
+<div align="center">
 
-# 💻 About me:
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+kappelo!;A+creative+developer+from+Poland" alt="Typing SVG" />
 
-- 🔭 I’m currently working on [Dream Zone](https://dzcode.eu/)
+<br>
 
-- 🌱 I’m currently learning **MongoDB, JavaScript, Bootstrap**
+<p align="center">
+  <a href="https://www.youtube.com/c/kappello99" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://discord.gg/MqqV9murSS" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="mailto:kappello99@proton.me" target="_blank">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail" />
+  </a>
+</p>
 
-- 👨‍💻 All of my projects are available at [Discord](https://dc.dzcode.eu/)
+</div>
 
-- 📫 How to reach me **support@dzcode.eu**
+---
 
-# ✉ Connect with me:
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/kappello99)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/MqqV9murSS)
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:kappello99@proton.me)
+### 👨‍💻 About Me
 
-# 🛠 Languages and Tools:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<div align="center">
+  
+| | |
+| :--- | :--- |
+| 🔭 **Working on:** | [Dream Zone](https://dzcode.eu/) |
+| 🌱 **Learning:** | MongoDB, JavaScript, Bootstrap |
+| 🚀 **Projects:** | Available on my [Discord](https://dc.dzcode.eu/) |
+| 📫 **Contact:** | `support@dzcode.eu` |
 
+</div>
+
+<br>
+
+### 🛠️ Languages and Tools
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,html,php,java,js,python,cloudflare,bootstrap,npm,nodejs,mysql,sqlite,mongodb,windows,ubuntu,linux&perline=8" />
+  </a>
+</div>
+
+<br>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kappelo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="kappelo's GitHub stats" height="195"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kappelo&theme=tokyonight&hide_border=true" alt="kappelo's GitHub streak" height="195"/>
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kappelo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<br>
+
+### 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kappelo/kappelo/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kappelo/kappelo/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kappelo/kappelo/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
