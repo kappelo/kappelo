@@ -11,8 +11,8 @@
   <a href="https://discord.gg/MqqV9murSS" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="mailto:kappello99@proton.me" target="_blank">
-    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail" />
+  <a href="mailto:kappelo@tuta.io" target="_blank">
+    <img src="https://img.shields.io/badge/Tuta-811E68?style=for-the-badge&logo=tutanota&logoColor=white" alt="Tuta" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@
 | 🔭 **Working on:** | [Dream Zone](https://dzcode.eu/) |
 | 🌱 **Learning:** | MongoDB, JavaScript, Bootstrap |
 | 🚀 **Projects:** | Available on my [Discord](https://dc.dzcode.eu/) |
-| 📫 **Contact:** | `support@dzcode.eu` |
+| 📫 **Contact:** | `kappelo@tuta.io` |
 
 </div>
 
@@ -45,15 +45,20 @@
 
 <br>
 
-### 📊 GitHub Stats
+### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kappelo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="kappelo's GitHub stats" height="195"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kappelo&theme=tokyonight&hide_border=true" alt="kappelo's GitHub streak" height="195"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kappelo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="kappelo's Trophies" />
+  </a>
 </div>
+
 <br>
+
+### 📈 GitHub Activity Graph
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kappelo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kappelo&theme=tokyo-night&hide_border=true&bg_color=1a1b27" alt="kappelo's Activity Graph" />
 </div>
 
 <br>
