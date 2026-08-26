@@ -9,9 +9,27 @@
   <p>
     <em>Turning caffeine into elegant code and digital experiences.</em>
   </p>
+  
+  <br>
+  
+  <h3>✧ 🇬🇧 English ✧</h3>
   <p>
-    I am a developer from Poland passionate about creating modern and scalable applications.<br>
-    Creator of <strong>Dream Zone</strong>, <strong>Kappelo Dev</strong>, <strong>mojesibo</strong>, <strong>theradesk</strong>, and <strong>kino-bez-reklam</strong>.
+    I am a developer from Poland passionate about creating modern and scalable applications.<br><br>
+    <i>Creator & Founder of:</i><br>
+    <br>
+    <kbd>Dream Zone</kbd> &nbsp;•&nbsp; <kbd>Kappelo Dev</kbd> &nbsp;•&nbsp; <kbd>mojesibo</kbd> &nbsp;•&nbsp; <kbd>theradesk</kbd> &nbsp;•&nbsp; <kbd>kino-bez-reklam</kbd>
+  </p>
+
+  <br>
+  <p>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+  <br>
+
+  <h3>✧ 🇵🇱 Polski ✧</h3>
+  <p>
+    Jestem programistą z Polski, z pasją do tworzenia nowoczesnych i skalowalnych aplikacji.<br><br>
+    <i>Dumny twórca projektów:</i><br>
+    <br>
+    <kbd>Dream Zone</kbd> &nbsp;•&nbsp; <kbd>Kappelo Dev</kbd> &nbsp;•&nbsp; <kbd>mojesibo</kbd> &nbsp;•&nbsp; <kbd>theradesk</kbd> &nbsp;•&nbsp; <kbd>kino-bez-reklam</kbd>
   </p>
 </div>
 <br>
