@@ -10,8 +10,8 @@
     <em>Turning caffeine into elegant code and digital experiences.</em>
   </p>
   <p>
-    I am a developer from Poland passionate about creating modern and scalable applications. 
-    Currently focused on <a href="https://dzcode.eu/" target="_blank">Dream Zone</a> and continuously expanding my skill set.
+    I am a developer from Poland passionate about creating modern and scalable applications.<br>
+    Creator of <strong>Dream Zone</strong>, <strong>Kappelo Dev</strong>, <strong>mojesibo</strong>, <strong>theradesk</strong>, and <strong>kino-bez-reklam</strong>.
   </p>
 </div>
 <br>
@@ -21,7 +21,7 @@
   <a href="https://www.youtube.com/c/kappello99" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-121212?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://discord.gg/MqqV9murSS" target="_blank">
+  <a href="https://discord.gg/Qgj9Xefjwx" target="_blank">
     <img src="https://img.shields.io/badge/Discord-121212?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="mailto:kappelo@tuta.io" target="_blank">
