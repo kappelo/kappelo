@@ -5,7 +5,7 @@
 
 <!-- Animated Projects & Bio -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F77F00&center=true&vCenter=true&width=500&lines=✨+Creator+of+Dream+Zone+✨;✨+Creator+of+Kappelo+Dev+✨;✨+Creator+of+mojesibo+✨;✨+Creator+of+theradesk+✨;✨+Creator+of+kino-bez-reklam+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F77F00&center=true&vCenter=true&width=500&lines=✨+Creator+of+Dream+Zone+✨;✨+Creator+of+kappelo.dev+✨;✨+Creator+of+MojeSIBO+✨;✨+Creator+of+TheraDesk+✨;✨+Creator+of+kino-bez-reklam+✨" alt="Typing SVG" />
   
   <br><br>
   <p>
